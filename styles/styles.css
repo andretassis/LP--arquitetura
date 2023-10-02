@@ -9,3 +9,35 @@
     color: #FFFFFF;
     padding: 100px 40px 80px 40px;
 }
+
+.dados__empresa {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 200px;
+    background-color: #F9F9F9;
+}
+
+.dados__numero {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.dados__texto { 
+    font-size: 14px;
+}
+
+.institucional {
+    display: flex;
+    justify-content: space-around;
+    padding: 100px 50px;
+    gap: 150px;
+}
+
+.institucional__texto {
+    align-self: center;
+    
+}
+
+.institucional__imagem {
+   width: 50%;
+}
