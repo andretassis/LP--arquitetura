@@ -23,7 +23,8 @@ Os dados de "Nome" e "Email" preenchidos são captados e armazenados nesta plani
 | Branco       | ![#FFFFFF](https://via.placeholder.com/10/ffffff?text=+) #FFFFFF |
 
 
-## Deploy
+## Links
 
 Link do deploy: https://lp-arquitetura-dnc.netlify.app/
+Link da planilha: https://docs.google.com/spreadsheets/d/1cMqIoB_Y2kEs4vbgJnZkbPKR125U7IaXmCIESU9IzqQ/edit?usp=sharing
 
